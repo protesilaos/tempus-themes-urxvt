@@ -1,5 +1,7 @@
 # Tempus Themes for RXVT-Unicode (urxvt)
 
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-urxvt).**
+
 Urxvt saves colour values in either of two places. The most common use case is within the `~/.Xresources`. The other is by sourcing an `Xcolors` file. This document will walk you through the process.
 
 ## We use the command line
